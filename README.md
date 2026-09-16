@@ -103,6 +103,9 @@ money-tracker/
 └── README.md
 ```
 
-## Lisensi
+## Anggota Kelompok
 
-Belum ditentukan.
+1. Talita Azra Ataya
+2. Sabrina Asmara Melati
+3. Salwa Ramadhina Altha Funnisa
+4. Syafira Maulida
