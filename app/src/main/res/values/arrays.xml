@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftar_kategori">
+        <item>Makanan</item>
+        <item>Minuman</item>
+        <item>Transportasi</item>
+        <item>Kebutuhan</item>
+        <item>Gaji</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="nilaiNol">Rp. 0</string>
+    <string name="ringkasanSaldo">Ringkasan Saldo</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="semua">Semua</string>
+    <string name="bulanIni">Bulan ini</string>
+    <string name="bulanLalu">Bulan lalu</string>
+    <string name="tigaBulanTerakhir">3 Bulan Terakhir</string>
+    <string name="pilihBulan">Pilih bulan</string>
+    <string name="rentangTanggal">Rentang Tanggal</string>
+    <string name="daftarTransaksi">Daftar Transaksi :</string>
+    <string name="tambahTransaksi">+ Tambah Transaksi</string>
+    <string name="label_keterangan">Keterangan</string>
+    <string name="hint_keterangan">ex. Kopi</string>
+    <string name="label_nominal">Nominal</string>
+    <string name="hint_nominal">ex. Rp 10.000</string>
+    <string name="label_tipe">Tipe</string>
+    <string name="tipe_pemasukan">Pemasukan</string>
+    <string name="tipe_pengeluaran">Pengeluaran</string>
+    <string name="label_kategori">Kategori</string>
+    <string name="label_tanggal">Tanggal</string>
+    <string name="tombol_pilih_tanggal">Pilih Tanggal</string>
+    <string name="tombol_simpan">Simpan</string>
+    <string name="judul_form_tambah">Form Tambah</string>
+    <string name="editText">Edit</string>
+    <string name="deleteText">Delete</string>
+</resources>

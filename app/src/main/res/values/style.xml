@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Choice" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">#FBA0E3</item>
+    </style>
+    <style name="Checked" parent="Widget.MaterialComponents.Chip.Action">
+        <item name="chipBackgroundColor">#FBA0E3</item>
+    </style>
+</resources>
